@@ -1,0 +1,19 @@
+[
+  {"product_id":"arroz-tucapel-1kg","store_id":"lider","price_clp":1280,"promo":null,"url":"https://ejemplo/lider/arroz"},
+  {"product_id":"arroz-tucapel-1kg","store_id":"jumbo","price_clp":1390,"promo":{"type":"percent","value":10},"url":"https://ejemplo/jumbo/arroz"},
+  {"product_id":"arroz-tucapel-1kg","store_id":"tottus","price_clp":1299,"promo":null,"url":"https://ejemplo/tottus/arroz"},
+  {"product_id":"arroz-tucapel-1kg","store_id":"unimarc","price_clp":1350,"promo":null,"url":"https://ejemplo/unimarc/arroz"},
+  {"product_id":"arroz-tucapel-1kg","store_id":"santaisabel","price_clp":1320,"promo":{"type":"xforY","x":3,"y":2},"url":"https://ejemplo/si/arroz"},
+
+  {"product_id":"leche-entera-1l","store_id":"lider","price_clp":990,"promo":null,"url":"https://ejemplo/lider/leche"},
+  {"product_id":"leche-entera-1l","store_id":"jumbo","price_clp":1050,"promo":null,"url":"https://ejemplo/jumbo/leche"},
+  {"product_id":"leche-entera-1l","store_id":"tottus","price_clp":999,"promo":{"type":"percent","value":5},"url":"https://ejemplo/tottus/leche"},
+  {"product_id":"leche-entera-1l","store_id":"unimarc","price_clp":1010,"promo":null,"url":"https://ejemplo/unimarc/leche"},
+  {"product_id":"leche-entera-1l","store_id":"santaisabel","price_clp":995,"promo":null,"url":"https://ejemplo/si/leche"},
+
+  {"product_id":"detergente-3l","store_id":"lider","price_clp":6990,"promo":null,"url":"https://ejemplo/lider/detergente"},
+  {"product_id":"detergente-3l","store_id":"jumbo","price_clp":6790,"promo":{"type":"percent","value":8},"url":"https://ejemplo/jumbo/detergente"},
+  {"product_id":"detergente-3l","store_id":"tottus","price_clp":6890,"promo":null,"url":"https://ejemplo/tottus/detergente"},
+  {"product_id":"detergente-3l","store_id":"unimarc","price_clp":7100,"promo":null,"url":"https://ejemplo/unimarc/detergente"},
+  {"product_id":"detergente-3l","store_id":"santaisabel","price_clp":7050,"promo":null,"url":"https://ejemplo/si/detergente"}
+]

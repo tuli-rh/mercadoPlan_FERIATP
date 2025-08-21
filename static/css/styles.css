@@ -1,0 +1,28 @@
+/* Hero suave */
+.hero-section {
+  background: linear-gradient(0deg, rgba(0,0,0,0.02), rgba(0,0,0,0.02));
+}
+
+/* Imagenes bien contenidas */
+.object-fit-contain { object-fit: contain; }
+
+/* Toast mínimo */
+.toast-mini{
+  position: fixed;
+  left: 50%;
+  bottom: 24px;
+  transform: translateX(-50%) translateY(16px);
+  background: #212529;
+  color: #fff;
+  padding: .6rem .9rem;
+  border-radius: .5rem;
+  opacity: 0;
+  transition: all .2s ease;
+  z-index: 1080;
+  box-shadow: 0 .25rem .75rem rgba(0,0,0,.15);
+  font-size: .95rem;
+}
+.toast-mini.show{
+  opacity: 1;
+  transform: translateX(-50%) translateY(0);
+}

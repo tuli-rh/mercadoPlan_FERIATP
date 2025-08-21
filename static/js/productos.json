@@ -1,0 +1,29 @@
+[
+  {
+    "id":"arroz-tucapel-1kg",
+    "name":"Arroz Grado 1 1 kg",
+    "brand":"Tucapel",
+    "category":"Abarrotes",
+    "normalized":{"size":1000,"unit":"g"},
+    "image":"https://via.placeholder.com/300x200?text=Arroz+1kg",
+    "synonyms":["arroz","tucapel","arroz 1kg"]
+  },
+  {
+    "id":"leche-entera-1l",
+    "name":"Leche entera 1 L",
+    "brand":"Colun",
+    "category":"Lácteos",
+    "normalized":{"size":1000,"unit":"ml"},
+    "image":"https://via.placeholder.com/300x200?text=Leche+1L",
+    "synonyms":["leche","colun","leche caja"]
+  },
+  {
+    "id":"detergente-3l",
+    "name":"Detergente líquido 3 L",
+    "brand":"Omo",
+    "category":"Limpieza",
+    "normalized":{"size":3000,"unit":"ml"},
+    "image":"https://via.placeholder.com/300x200?text=Detergente+3L",
+    "synonyms":["detergente","omo","jabon ropa"]
+  }
+]
